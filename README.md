@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on personal project & ...
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, nextjs, PHP, wordpress & ...
+- 🔭 I’m currently working on **personal project**
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
+     nextjs, PHP, wordpress
 - ~👯 I’m looking to collaborate on ...~
 - ~🤔 I’m looking for help with ...~
 - ~💬 Ask me about ...~
