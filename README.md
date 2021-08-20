@@ -6,9 +6,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **personal project**
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
-     nextjs, PHP, wordpress
+- 🔭 I’m currently working on [my portofolio](https://yuzdnt.vercel.app) and some **personal project**
+- 🌱 I’m currently learning to be a good web-developer and i love learn other language (english and arabic)
 - ~👯 I’m looking to collaborate on ...~
 - ~🤔 I’m looking for help with ...~
 - ~💬 Ask me about ...~
