@@ -2,6 +2,7 @@
 
 - 🔨 I’m currently working on [my portofolio](https://yuzdnt.vercel.app) and some **personal project**
 - 📖 I’m currently learning about web development.
+- 💡 I love languages and I am currently learning English and Arabic.
 - ~👯 I’m looking to collaborate on ...~
 - ~🤔 I’m looking for help with ...~
 - ~💬 Ask me about ...~
