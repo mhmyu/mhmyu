@@ -1,4 +1,4 @@
-### Hi there 👋 i am yuz, a designer, web developer and self-taught learner.
+### Hi there 👋 i am yu, a designer, web developer and self-taught learner.
 
 - 🔨 I’m currently working on [my portofolio](https://yuzdnt.vercel.app) and some **personal project**
 - 📖 I’m currently learning about web development.
