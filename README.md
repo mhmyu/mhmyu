@@ -1,4 +1,4 @@
-### Hi there 👋 i am yu ~<designer-developer/>~
+### Hi there 👋 i am yu ~< designer-developer />~
 
 - 🔨 I’m currently working on [my portofolio](https://anuu.me) and some **personal project**
 - 📖 I’m currently learning about web development.
