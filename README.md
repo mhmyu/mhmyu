@@ -1,4 +1,4 @@
-### Hi there 👋 i am yu ~< designer-developer />~
+### Hi there 👋 i am yu ~< -developer-designer- />~
 
 - 📖 I’m currently learning about **Next.js**
 - 💡 I love languages, both human and computer languages.
