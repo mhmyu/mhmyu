@@ -1,4 +1,4 @@
-### Hi there 👋 i am yu ~< -de(veloper+designer)- />~
+### Hi there 👋 i am yu ~< -de(signer+veloper)- />~
 
 - 📖 I’m currently learning about **Next.js**
 - 💡 I love languages, both human and computer languages.
