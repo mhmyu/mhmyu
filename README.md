@@ -1,4 +1,4 @@
-### Hi there 👋 i am yu ~< -de(signer+veloper)- />~
+### Hi there 👋 i am yu
 
 - 🔥 **currently open for new opportunities**
 - 📖 I’m currently learning about **web development**, ...
