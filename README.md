@@ -1,6 +1,6 @@
 ### Hi there 👋 i am yu, a freelancer.
 
-- `🔥 I'm currently 😄`
+- `🔥 I'm currently 😄` and build a landing page 
 - 📖 I’m currently learning about **web development**, ...
 - 💡 I love languages, both human and computer languages.
 - 📫 How to reach me: 🐦 [@mhmmyu](https://twitter.com/mhmmyu) & 📧 [email](mailto:gh@anuu.me)
